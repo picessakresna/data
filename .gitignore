@@ -1,0 +1,5 @@
+# Ignore all folders named "dataset"
+**/dataset/
+# Ignore specific files
+cnn1.ipynb
+archive.zip
