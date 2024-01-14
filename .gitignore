@@ -1,5 +1,9 @@
 # Ignore all folders named "dataset"
 **/dataset/
+# Ignore mymodel file
+mymodel
+
 # Ignore specific files
 cnn1.ipynb
 archive.zip
+CNN_model.tflite
