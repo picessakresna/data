@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 import matplotlib.pyplot as plt
 
 import requests
-url = "https://github.com/picessakresna/data-portofolio/raw/f0021c54ac6f2a184e8cddb9a88bc7e05b900a8d/nlp/dataset/bbc-text.csv"
+url = "https://github.com/picessakresna/data-ml-portofolio/raw/f0021c54ac6f2a184e8cddb9a88bc7e05b900a8d/nlp/dataset/bbc-text.csv"
 filename = "bbc-text.csv"
 
 response = requests.get(url)
